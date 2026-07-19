@@ -56,3 +56,13 @@ Example retinal images are included in the `sample_images` folder for quick test
 - Larger training dataset
 - Higher classification accuracy
 - Real-time clinical screening support
+
+## Model Performance
+
+Validation Results:
+
+- Accuracy: 70.53%
+- Precision (Weighted): 55.02%
+- Recall (Weighted): 70.53%
+- F1 Score (Weighted): 61.66%
+- Quadratic Weighted Kappa: 0.6640
